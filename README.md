@@ -12,7 +12,8 @@ log1000 with base 2 = 10
 current = root
 while current.right != null:
         current = current.rightNode
-        return current
+
+return current
 
 ```
 
