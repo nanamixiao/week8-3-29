@@ -8,11 +8,13 @@
 log1000 with base 2 = 10
 
 ## 3 
+``` python
 current = root
 while current.right != null:
         current = current.rightNode
         return current
 
+```
 
 ## 4 
 
